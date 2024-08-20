@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(216, 209, 197);
+}
+.img{
+    background-image: url(https://www.brarchitecture.com/wp-content/uploads/2022/03/tre-bay-outside-back-d.jpg);
+    background-repeat: no-repeat;
+    width:100%;
+    height:800px;
+    background-size: 100%;
+}
+h1{
+    text-align:center;
+    color: blueviolet;
+}
+.line{
+        position:sticky;
+        top:10px;
+        z-index:1;
+    }
+.frist{
+    border:2px solid rgb(12, 11, 11);
+    padding:1.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-attachment:fixed;
+}
+.nav0{
+    float:right;
+    margin: -5px;
+}
+.nav1{
+    float:left;
+    margin: -5px;
+}
+.nav2{
+    float:right;
+    margin: -5px;
+}
+.nav3{
+    float:right;
+    margin: -5px;
+}
+h3{
+    color: white;
+    padding: 10px;}
+.img0{
+    background-image: url(img1.jpg);
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    margin: 5px;
+    background-size: 100%;
+}
+.box0{
+    height: 40px;
+    width: 180px;
+    border: 1;
+    background-color: black;   
+}
+.img1{
+    background-image: url(img2.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    margin: 20px;
+    width: 250px;
+    display: inline-block;
+    background-size: 100%;
+}
+.box1{
+    height: 40px;
+    width: 180px;
+    border: 1;
+    background-color: black;   
+}
+.img2{
+    background-image: url(img3.jpg);
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    display: inline-block;
+    background-size: 100%;
+}
+.box2{
+    height: 40px;
+    width: 180px;
+    border: 1;
+    background-color: black;   
+}
+.img3{
+    background-image: url(img4.jpg);
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    margin: 30px;
+    background-size: 100%;
+}
+.box3{
+    height: 40px;
+    width: 180px;
+    border: 1;
+    background-color: black;   
+}
+.img4{
+    background-image: url(img4.jpg);
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    margin: 30px;
+    background-size: 100%;
+}
+.box4{
+    height: 40px;
+    width: 180px;
+    border: 1;
+    background-color: black;    
+}
