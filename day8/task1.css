@@ -1,0 +1,180 @@
+
+        .fixed{
+            position:sticky ;
+            height: 40px;
+            background-color: rgb(218, 208, 208);
+            top: 0;
+            z-index: 1000;
+            padding: 2px;
+        }
+
+        .pre{
+            color:rgb(21, 15, 15);
+            font-family: Verdana, sans-serif;
+            letter-spacing: 5px;
+            font-size: large;
+        }
+        .cf:hover{
+            background-color: rgb(202, 190, 190);
+            height: 25px;
+            padding: 1px;
+            width: 50px;
+        }
+        .xy{
+            text-decoration: none;
+        }
+        .xy:hover{
+            background-color: rgb(202, 190, 190);
+            height: auto;
+            width: 50px;
+        }
+        .az:hover{
+            background-color: rgb(177, 171, 171);
+            height: 25px;
+            padding: 1px;
+        } 
+        .bd:hover{
+            background-color: rgb(202, 190, 190);
+            height: 25px;
+            padding: 1px;
+            width:10px;
+        }
+        .container{
+            position: relative;
+            margin: 5px;
+        }
+        h1{
+           color:rgb(213, 192, 192);
+           position: absolute;
+           top:250px;
+           left: 480px;
+        }
+        button{
+            padding:2px;
+            color:white;
+            background-color:#060505cd;
+            height: 70px;
+            width: 100px;
+            font-size: 30px;
+            border: none;
+        }
+        .a{
+            position:relative;
+            margin: 6px;
+        }
+        .b{
+            background-color: black;
+            color: white;
+            position: absolute;
+            bottom:145px;
+            left:0;
+            height: 20px;
+            width: 130px;
+            padding: 10px;
+        }
+        .c{
+            position:relative;
+            margin: 6px;
+        }
+        .d{
+            background-color: black;
+            color: white;
+            position: absolute;
+            bottom:145px;
+            left:0px;
+            height: 20px;
+            width: 110px;
+            padding: 10px;
+        }
+        .e{
+            position:relative;
+            margin: 6px;
+        }
+        .f{
+            background-color: black;
+            color: white;
+            position: absolute;
+            bottom:145px;
+            left:0px;
+            height: 20px;
+            width: 100px;
+            padding: 10px;
+        }
+        .g{
+            position:relative;
+            margin: 6px;
+        }
+        .h{
+            background-color: black;
+            color: white;
+            position: absolute;
+            bottom:145px;
+            left:0px;
+            height: 20px;
+            width: 110px;
+            padding: 10px;
+        }
+        .i{
+            position:relative;
+            margin: 6px;
+        }
+        .j{
+            background-color: black;
+            color: white;
+            position: absolute;
+            bottom:145px;
+            left:0px;
+            height: 20px;
+            width: 130px;
+            padding: 10px;
+        }
+        .k{
+            position:relative;
+            margin: 6px;
+        }
+        .l{
+            background-color: black;
+            color: white;
+            position: absolute;
+            bottom:145px;
+            left:0px;
+            height: 20px;
+            width: 110px;
+            padding: 10px;
+        }
+        .m{
+            position:relative;
+            margin: 6px;
+        }
+        .n{
+            background-color: black;
+            color: white;
+            position: absolute;
+            bottom:145px;
+            left:0px;
+            height: 20px;
+            width: 100px;
+            padding: 10px;
+        }
+        .o{
+            position:relative;
+            margin: 6px;
+        }
+        .p{
+            background-color: black;
+            color: white;
+            position: absolute;
+            bottom:145px;
+            left:0px;
+            height: 20px;
+            width: 110px;
+            padding: 10px;
+        }
+        .a,.b,.c,.d,.e,.f,.g,.h,.i,.j,.k,.l,.m,.n,.o,.p{
+                  display: inline-block;
+        }
+        .cf,.pre,.xy,.az,.bd{
+            display: inline;
+        }
+        @media only screen and( width<700px){
+        }

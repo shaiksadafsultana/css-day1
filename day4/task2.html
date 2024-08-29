@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+     *{
+        margin: 0PX;
+        padding: 0PX;
+     }
+     ul{
+    list-style-type: none;
+     }
+     ul li{
+        float: left;
+        width: 300px;
+        height: 50px;
+        background-color: hsl(180, 67%, 1%);
+        text-align: left;
+        line-height: 50px;
+
+
+     }
+     ul li a{
+        text-decoration: none;
+        color: #dddbdb;
+        display: block;
+     }
+     ul li a:hover{
+        background-color: rgb(137, 77, 3);
+        color: aqua;
+     }
+     ul li ul li{
+        display: none;
+     }
+     ul li:hover ul li{
+      display: block;
+     }
+        
+    </style>
+</head>
+<body>
+    <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">Tutorials</a>
+        <ul>
+            <li><a href="">HTML</a></li>
+            <li><a href="">CSS</a></li>
+            <li><a href="">JAVA</a></li>
+            <li><a href="">SQL</a></li>
+            <li><a href="">PYTHON</a></li>
+        </ul>
+        
+        </li>
+        <li><a href="">About Us</a></li>
+        <li><a href="">Contact Us</a></li>
+    </ul>
+</body>
+</html>
